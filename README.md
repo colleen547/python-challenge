@@ -1,14 +1,13 @@
 # python-challenge
-**`Python - Py Me Up, Charlie`**
+**Python - Py Me Up, Charlie**
 
 BACKGROUND<br>
-PyBank - A Python script created to analyze the financial records of a company.<br>
-PyPoll - A Python script created to calculate and analyze election votes.
+- PyBank - A Python script created to analyze the financial records of a company.<br>
+- PyPoll - A Python script created to calculate and analyze election votes.
 
 DETAILS - PyBank<br>
 Beginning with a dataset containing two columns: Date and Profit/Losses, this Python script was created to analyze the following:
 
-- **`HTML`**
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
 - The average of the changes in "Profit/Losses" over the entire period
