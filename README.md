@@ -1,5 +1,5 @@
 # python-challenge
-Python - Py Me Up, Charlie
+**`Python - Py Me Up, Charlie`**
 
 BACKGROUND<br>
 PyBank - A Python script created to analyze the financial records of a company.<br>
