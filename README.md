@@ -2,8 +2,8 @@
 Python - Py Me Up, Charlie
 
 BACKGROUND<br>
-PyBank - A Python script was created to analyze the financial records of a company.<br>
-PyPoll - A Python script was created to calculate and analyze election votes.
+PyBank - A Python script created to analyze the financial records of a company.<br>
+PyPoll - A Python script created to calculate and analyze election votes.
 
 DETAILS - PyBank<br>
 Beginning with a dataset containing two columns: Date and Profit/Losses, this Python script was created to analyze the following:
@@ -15,7 +15,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
 DETAILS - PyPoll<br>
-Beginning with a dataset composed of three columns: Voter ID, County, and Candidate, this Python script was created to analyzes the election votes and calculate each of the following:
+Beginning with a dataset composed of three columns: Voter ID, County, and Candidate, this Python script was created to analyze election votes and calculate each of the following:
 
 The total number of votes cast
 A complete list of candidates who received votes
