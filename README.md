@@ -14,7 +14,7 @@ Beginning with a dataset containing two columns: Date and Profit/Losses, this Py
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in losses (date and amount) over the entire period
 
-<div style="text-align:center"><img src="static/images/stockmarket.jpg" width="1000" height="300"/></div>
+<div style="text-align:center"><img src="static/images/stockmarket2.jpg" width="1000" height="300"/></div>
 
 DETAILS - PyPoll<br>
 Beginning with a dataset composed of three columns: Voter ID, County, and Candidate, this Python script was created to analyze election votes and calculate each of the following:
