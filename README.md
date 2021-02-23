@@ -25,4 +25,4 @@ Beginning with a dataset composed of three columns: Voter ID, County, and Candid
 - The total number of votes each candidate won
 - The winner of the election based on popular vote.
 
-<div style="text-align:center"><img src="static/images/G20-Summit-Communique-Flags.jpg" width="1000" height="300"/></div>
+<div style="text-align:center"><img src="static/images/votebuttons.jpg" width="1000" height="300"/></div>
