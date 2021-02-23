@@ -2,7 +2,7 @@
 Python - Py Me Up, Charlie
 
 BACKGROUND<br>
-PyBank - A Python script was created to analyze the financial records of a company.
+PyBank - A Python script was created to analyze the financial records of a company.<br>
 PyPoll - A Python script was created to calculate and analyze election votes.
 
 DETAILS - PyBank<br>
