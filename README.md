@@ -26,3 +26,4 @@ Beginning with a dataset composed of three columns: Voter ID, County, and Candid
 - The winner of the election based on popular vote.
 
 <div style="text-align:center"><img src="static/images/votebuttons.jpg" width="1000" height="300"/></div>
+
