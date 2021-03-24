@@ -1,11 +1,11 @@
 # python-challenge
 **Python - Py Me Up, Charlie**
 
-BACKGROUND<br>
+<b>BACKGROUND</b><br>
 - PyBank - A Python script is uesed to analyze the financial records of a company.<br>
 - PyPoll - A Python script is used to analyze and calculate election votes.
 
-DETAILS - PyBank<br>
+<b>DETAILS - PyBank</b><br>
 Beginning with a dataset containing two columns: Date and Profit/Losses, this Python script was created to analyze the following:
 
 - The total number of months included in the dataset
@@ -16,7 +16,7 @@ Beginning with a dataset containing two columns: Date and Profit/Losses, this Py
 
 <div style="text-align:center"><img src="static/images/stockmarket2.jpg" width="1000" height="300"/></div>
 
-DETAILS - PyPoll<br>
+<b>DETAILS - PyPoll</b><br>
 Beginning with a dataset composed of three columns: Voter ID, County, and Candidate, this Python script was created to analyze election votes and calculate each of the following:
 
 - The total number of votes cast
