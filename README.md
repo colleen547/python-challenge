@@ -5,7 +5,7 @@
 - PyBank - A Python script is uesed to analyze the financial records of a company.<br>
 - PyPoll - A Python script is used to analyze and calculate election votes.
 
-<b>DETAIL - PyBank</b><br>
+<b>DETAILS - PyBank</b><br>
 Beginning with a dataset containing two columns: Date and Profit/Losses, this Python script was created to analyze the following:
 
 - The total number of months included in the dataset
