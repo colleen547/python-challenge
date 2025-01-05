@@ -2,8 +2,8 @@
 **Python - Py Me Up, Charlie**
 
 <b>BACKGROUND</b><br>
-- PyBank - A Python script is used to analyze a company's financial records.<br>
-- PyPoll - A Python script is used to analyze and calculate election votes.
+- PyBank - A Python script was used to analyze a company's financial records.<br>
+- PyPoll - A Python script was used to analyze and calculate election votes.
 
 <b>DETAILS - PyBank</b><br>
 Beginning with a dataset containing two columns, Date and Profit/Losses, this Python script was created to analyze the following:
