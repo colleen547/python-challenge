@@ -1,6 +1,6 @@
 """PyBank Homework"""
 
-# Import OS module (This allows us to create file paths across operating systems)
+# Import OS module (This allows me to create file paths across operating systems)
 import os
 # Module for reading CSV file
 import csv
