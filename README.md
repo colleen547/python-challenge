@@ -2,11 +2,11 @@
 **Python - Py Me Up, Charlie**
 
 <b>BACKGROUND</b><br>
-- PyBank - A Python script is uesed to analyze the financial records of a company.<br>
+- PyBank - A Python script is used to analyze a company's financial records.<br>
 - PyPoll - A Python script is used to analyze and calculate election votes.
 
 <b>DETAILS - PyBank</b><br>
-Beginning with a dataset containing two columns: Date and Profit/Losses, this Python script was created to analyze the following:
+Beginning with a dataset containing two columns, Date and Profit/Losses, this Python script was created to analyze the following:
 
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
@@ -23,7 +23,7 @@ Beginning with a dataset composed of three columns: Voter ID, County, and Candid
 - A complete list of candidates who received votes
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
-- The winner of the election based on popular vote.
+- The winner of the election is based on the popular vote.
 
 <div style="text-align:center"><img src="static/images/votebuttons.jpg" width="1000" height="300"/></div>
 
