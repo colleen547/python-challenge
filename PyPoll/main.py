@@ -1,6 +1,6 @@
 """PyPoll Homework"""
 
-# Import OS module to create file paths across operating system
+# Import OS module to create file paths across operating systems
 import os
 
 # Import Module for reading CSV file
